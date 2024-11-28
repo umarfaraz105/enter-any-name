@@ -1,6 +1,6 @@
-public class anyname{
-
-public static main void( String[] args)]{
-  print.system.out("hello");
-}
+// HelloWorld.java
+public class anyname {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
 }
