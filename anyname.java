@@ -1,6 +1,6 @@
 public class anyname{
 
-public static void main(strings:args){
+public static main void[strings:args]{
   print.system.out("hello");
 }
 }
